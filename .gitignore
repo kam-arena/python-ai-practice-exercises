@@ -1,0 +1,74 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+.virtualenv
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+.envrc
+
+# API Keys and credentials
+*.key
+*.pem
+*.cert
+*.crt
+*.der
+*.p12
+*.pfx
+secrets.json
+credentials.json
+service-account.json
+config.json
+
+# Azure specific
+.azure/
+*.publishsettings
+*.azurePubxml
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS specific
+Thumbs.db
+desktop.ini
+
+# Ignore specific image file
+microsoft_learn_agent_framework/images/Goku.jpg

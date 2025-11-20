@@ -1,0 +1,6 @@
+Subject: You are welcome!
+
+Hi customer,
+You have successfully completed user registration on Hatvision.
+Please visit 'My Account' page to edit your account details and create your user profile on Hatvision.
+Thank You!
